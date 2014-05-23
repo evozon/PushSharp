@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platforms", "Platforms", "{C09BBA3E-9CF3-4479-A4C3-3006820E2046}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushSharp.Apple", "PushSharp.Apple\PushSharp.Apple.csproj", "{83C67156-893D-4AFF-9169-DB34771989CB}"
