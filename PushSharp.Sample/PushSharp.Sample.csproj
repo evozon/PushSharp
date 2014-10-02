@@ -59,10 +59,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PushSharp.Amazon.Adm\PushSharp.Amazon.Adm.csproj">
-      <Project>{52154303-5315-494C-A741-2F0998795DC3}</Project>
-      <Name>PushSharp.Amazon.Adm</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PushSharp.Apple\PushSharp.Apple.csproj">
       <Project>{83C67156-893D-4AFF-9169-DB34771989CB}</Project>
       <Name>PushSharp.Apple</Name>

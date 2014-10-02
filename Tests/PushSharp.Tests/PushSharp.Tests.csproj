@@ -65,7 +65,7 @@
     <Compile Include="TestServers\GcmTestServer.cs" />
     <Compile Include="TestServers\ApnsTestServer.cs" />
     <Compile Include="GcmChromeTests.cs" />
-    <Compile Include="AmazonAdmTests.cs" />
+    <None Include="AmazonAdmTests.cs" />
     <Compile Include="BlackberryTests.cs" />
     <Compile Include="TestServers\ApnsNodeTestServer.cs" />
   </ItemGroup>
@@ -97,10 +97,6 @@
     <ProjectReference Include="..\..\PushSharp.Google.Chrome\PushSharp.Google.Chrome.csproj">
       <Project>{84961658-42B9-4943-B738-ABED75EDE303}</Project>
       <Name>PushSharp.Google.Chrome</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\PushSharp.Amazon.Adm\PushSharp.Amazon.Adm.csproj">
-      <Project>{52154303-5315-494C-A741-2F0998795DC3}</Project>
-      <Name>PushSharp.Amazon.Adm</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\PushSharp.Blackberry\PushSharp.Blackberry.csproj">
       <Project>{5250980B-BD11-4201-B083-AEDB8C62C471}</Project>
