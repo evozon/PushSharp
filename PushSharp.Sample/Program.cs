@@ -5,15 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using PushSharp;
+using PushSharp.Core;
 using PushSharp.Android;
 using PushSharp.Apple;
-using PushSharp.Core;
 using PushSharp.Windows;
 using PushSharp.WindowsPhone;
-
-//using PushSharp.Android;
-//using PushSharp.WindowsPhone;
-//using PushSharp.Windows;
 
 namespace PushSharp.Sample
 {
