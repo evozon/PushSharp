@@ -59,14 +59,6 @@
     <Compile Include="..\PushSharp.Core\AssemblyVersionInfo.cs">
       <Link>AssemblyVersionInfo.cs</Link>
     </Compile>
-    <Compile Include="C2dm\C2dmFluentNotification.cs" />
-    <Compile Include="C2dm\C2dmNotification.cs" />
-    <Compile Include="C2dm\C2dmPushBrokerExtensions.cs" />
-    <Compile Include="C2dm\C2dmPushChannel.cs" />
-    <Compile Include="C2dm\C2dmPushChannelSettings.cs" />
-    <Compile Include="C2dm\C2dmPushService.cs" />
-    <Compile Include="C2dm\C2dmMessageTransportResponse.cs" />
-    <Compile Include="C2dm\C2dmExceptions.cs" />
     <Compile Include="Gcm\GcmFluentNotification.cs" />
     <Compile Include="Gcm\GcmPushBrokerExtensions.cs" />
     <Compile Include="Gcm\GcmPushChannelSettings.cs" />
